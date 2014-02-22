@@ -1,0 +1,38 @@
+IN-LECTURE QUESTIONS FOR VIDEO 1.4
+
+Note: See the answer key at the bottom of this file.
+
+1) Which Eclipse view(s) were manually added to the Java perspective? Select all that apply.
+a. Logcat view
+b. Device view
+c. Problems view
+d. Console view
+
+2) You accidentally closed all of the views in Eclipse. How do you quickly reset Eclipse to show the original set of views?
+a. It's not possible
+b. Reinstall the software
+c. Use Windows>Reset Perspective option
+d. Try turning it off and on again
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------
+1) a & b
+2) c

@@ -1,0 +1,76 @@
+IN-LECTURE QUESTIONS FOR VIDEO 1.2
+
+Note: See the answer key at the bottom of this file.
+
+1) What is the purpose of the support library?
+a. To route calls over adhoc wifi network reconfigurable mesh
+b. To provide support for Blackberry
+c. To make it easy for beginners
+d. To help support modern Android functionality in older phones
+
+2) Select all that apply. For this course, Lawrence will be using and playing with Android emulators based on:
+a. API Level 6 (Android 2.0.1)
+b. API Level 10 (Android 2.3.3)
+c. API Level 12 (Android 3.1)
+d. API Level 18 (Android 4.3)
+
+3) True or False? After installing new emulator images Lawrence recommends restarting Eclipse, especially before creating new virtual devices.
+a. True
+b. False
+
+4) The Intel hardware accelerator for x86 emulator images and support library can be found:
+a. Inside extras
+b. Inside tools
+c. Inside Android 4.3 (API18) or later
+
+5) True or False? Emulator images for some, but not all, earlier Android versions can be selected and downloaded.
+a. True
+b. False
+
+6) The phrases 'mdpi' and 'xhdpi' refer to what aspect of the device?
+a. Sound quality—a xhdpi device has better audio hardware than a mdpi device
+b. Camera quality—a xhdpi device has a better camera than a mdpi device
+c. Screen density—a xhdpi device has a higher density screen than a mdpi device
+d. Screen density—a xhdpi device has a lower density screen than a mdpi device
+
+7) Which of the following device options are experimental and not recommended? Select all that apply.
+a. Snapshot
+b. Use Host GPU
+c. SD Card
+
+8) Which of the following can be configured when creating a new Android Virtual Device?  Select all that apply.
+a. Total RAM (memory)
+b. SD Card size
+c. CPU type
+d. Internal storage
+e. Screen resolution (total number of pixels)
+f. Screen density (number of pixels per inch)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------
+1) d
+2) b & d
+3) a
+4) a
+5) a
+6) c
+7) a & b
+8) a, b, c, d, e & f

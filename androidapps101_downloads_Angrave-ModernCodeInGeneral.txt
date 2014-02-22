@@ -1,0 +1,51 @@
+Modern Code In General
+Lawrence Angrave 12/11/2013
+
+Dedicated to All of the Java keywords, Composer Terry Dwyer, Gilbert and Sullivan 
+and to all who grapple with the difficulties of learning and using 'modern' code.
+
+Angrave's lyrics are shared under the CC-BY license
+Music from Gilbert and Sullivan's 1879 comic opera 
+"The Pirates of Penzance."
+ 
+You see the very model of the modern code, in general
+Has information in abstract recursive computational
+Implements ideas of old from static machines historical 
+Expression, types, procedural and binary mathematical.
+With operator precedence and exception parenthentical
+You'll bite those bugs at runtime and fix syntax ungrammatical
+About your objects of import	constructed with a lot o' news ...
+To debug, I assert, a breakpoint, log should always be your logic ruse!
+
+You'll debug your methods use parameters write null and void
+Lost objects are collected; return their memory; redeployed
+In short, in matters in abstract recursive computational
+Compile the very model of the modern code, in general.
+
+Cast primitives and method calls to calculate
+While 'for loops' break or continue round; around to iterate
+Void methods 'turn with empty hands and if conditions evaluate
+And reasons for a default instance case, do enumerate.
+You count in base sixteen and multiply with shifting tricks
+You know the native ASCII codes and catch your partner's merge conflicts
+String two byte characters with a quote or two - immutable! ...
+And state my class extends one thing, its super - "don't object" it's irrefutable!
+
+You comment on your coding and explain that strange parameter
+And package your instructions, make your programs small and modular
+In long, in matters in abstract recursive computational
+Debug the very model of the modern code, in general.
+
+When volatile protects the cache of CPUs asynchronous
+When eventful code has callbacks that execute autonomous
+A single instance of a class no name to scope anonymous
+Exclusive private statement or sung public in a CS course
+When my algorithm's efficient and my unit tests all goto green
+When I have learned from code reviews and lint reports are always clean
+When my interface is pure and just needs a closing brace addition ...
+And will strictly synchronize those threads else block that transient race condition!
+
+When in matters of G. Boole their truth false character - binary
+Switch ints for floats and doubles and their bit-wise constant, finally,
+But still, in matters in abstract recursive computational
+We'll throw out this very model of the modern code, in general.
